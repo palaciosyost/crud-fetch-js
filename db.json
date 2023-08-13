@@ -1,0 +1,33 @@
+{
+  "pokemon": [
+    {
+      "nombre": "yostin",
+      "tipo": "estudiante",
+      "id": 1
+    },
+    {
+      "nombre": "carlos",
+      "tipo": "administrador",
+      "id": 2
+    },
+    {
+      "nombre": "jose",
+      "tipo": "estudiante",
+      "id": 3
+    }
+  ],
+  "personajes": [
+    {
+      "id": 1,
+      "nombre": "Ash"
+    },
+    {
+      "id": 2,
+      "nombre": "misti"
+    },
+    {
+      "id": 3,
+      "nombre": "kat"
+    }
+  ]
+}
